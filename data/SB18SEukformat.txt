@@ -1,0 +1,20 @@
+phylum	SharkBay_Pastular	SharkBay_Smooth	SharkBay_Columnar	Highborne_Stromatolite	Highborne_ThrA	Highborne_ThrB	Highborne_ThrC	Highborne_MatType1	Highborne_MatType3
+Unclassified Fungi	0	0	0	0	0	1	0	0	0
+Ascomycota	0	0	0	0	0	0	2	0	0
+Bacillariophyta	0	2	0	0	2	1	4	0	0
+Echinodermata	1	0	0	0	0	0	0	0	0
+Chordata	0	0	1	3	0	0	0	0	0
+Unclassified Eukaryota	3	0	4	0	23	24	25	0	0
+Mollusca	0	0	0	0	0	1	1	0	0
+Platyhelminthes	0	0	0	0	1	0	0	0	0
+Arthropoda	5	3	0	0	11	11	10	0	0
+Sipuncula	0	0	0	0	1	1	1	0	0
+Annelida	0	0	0	0	5	5	6	0	0
+Nematoda	2	1	0	0	0	0	0	3	2
+Blastocladiomycota	0	0	0	0	1	1	1	0	0
+Pinguiophyceae	0	0	0	0	0	1	0	0	0
+Nematomorpha	0	0	0	0	1	0	0	0	0
+Chlorophyta	1	1	0	0	5	7	9	1	0
+Streptophyta	3	1	0	0	2	3	1	0	11
+Ctenophora	0	0	0	0	1	1	1	0	0
+Unclassified 	14	8	35	2	4	5	6	0	0

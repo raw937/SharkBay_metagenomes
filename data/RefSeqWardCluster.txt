@@ -1,0 +1,53 @@
+phylum	Highborne_ThrA	Highborne_ThrB	Highborne_ThrC	SharkBay_Columnar_Stromatolite	SharkBay_Pastular	SharkBay_Smooth	Highborne_Stromatolite	Highborne_MatType1	Highborne_MatType3
+Elusimicrobia	0	0	0	8	46	33	0	5	6
+Verrucomicrobia	111	117	127	669	3104	1221	4	107	124
+Bacteroidetes	6497	6543	6812	11976	16685	5848	34	1274	1265
+Aquificae	22	11	14	92	379	185	1	25	34
+Chaetognatha	0	0	0	0	0	0	0	1	0
+Ascomycota	41	27	30	81	254	145	0	10	7
+Streptophyta	70	57	55	156	375	151	1	12	651
+Actinobacteria	283	249	270	1626	7232	2402	76	148	160
+Chlorobi	103	136	117	556	1152	579	2	73	71
+unassigned	2	2	1	12	55	53	0	3	8
+Poribacteria	5	6	4	25	99	29	0	1	3
+Deferribacteres	12	20	19	143	275	144	0	23	34
+Unclassified Viruses	10	11	9	3088	86	20	510	9	6
+Bacillariophyta	115	98	85	52	66	31	0	4	1
+Echinodermata	62	60	59	6	41	26	0	8	11
+Chrysiogenetes	3	4	6	0	129	66	0	8	8
+Tenericutes	6	2	7	38	26	18	0	11	15
+Lentisphaerae	8	17	18	78	387	209	3	12	23
+Apicomplexa	7	9	0	17	50	19	1	1	2
+Nitrospirae	10	12	17	99	418	182	0	22	19
+Dictyoglomi	4	5	4	35	128	95	1	0	7
+Hemichordata	24	35	26	0	31	21	0	3	15
+Thaumarchaeota	8	0	5	150	135	24	0	4	6
+Deinococcus-Thermus	63	49	49	373	1218	545	0	29	29
+Unclassified Bacteria	8	9	8	125	470	239	0	16	13
+Gemmatimonadetes	14	12	6	23	679	98	0	4	13
+Acidobacteria	66	64	61	668	1904	538	3	44	52
+Spirochaetes	34	41	52	150	1527	1294	2	173	200
+Firmicutes	455	492	416	6735	9318	5112	40	556	667
+Chloroflexi	188	182	189	1192	7666	5666	2	251	119
+Planctomycetes	87	83	94	1607	7385	1757	8	131	147
+Chordata	118	124	117	91	346	134	4	37	87
+Unclassified Eukaryota	443	415	386	150	215	130	1	8	20
+Basidiomycota	10	2	13	9	65	26	3	6	3
+Fusobacteria	7	24	20	176	226	154	3	37	38
+Synergistetes	8	8	7	55	367	249	0	11	19
+Crenarchaeota	5	0	0	269	299	162	4	10	18
+Arthropoda	84	103	111	454	116	82	2	24	103
+Placozoa	8	0	11	6	25	8	0	2	7
+Korarchaeota	0	0	0	11	29	17	0	0	2
+Nematoda	7	20	22	29	69	40	3	27	72
+Proteobacteria	2942	3182	2965	91340	70087	25516	1095	2964	3121
+Chlamydiae	19	18	18	1135	429	104	4	45	58
+Nanoarchaeota	0	0	0	0	24	0	0	3	2
+Cyanobacteria	30239	30496	30718	25511	8014	4748	159	3550	4112
+Thermotogae	12	11	12	56	405	281	0	30	30
+Chromerida	0	0	0	0	0	0	0	24	13
+Chlorophyta	75	83	90	37	241	95	3	10	17
+Cnidaria	78	78	77	0	59	33	0	9	22
+Fibrobacteres	5	3	9	13	60	33	0	5	3
+Euryarchaeota	100	105	93	1046	12649	1462	31	125	165
+

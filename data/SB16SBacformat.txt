@@ -1,0 +1,22 @@
+phylum	SharkBay_Columnar_stromatolite	SharkBay_Pastular	SharkBay_Smooth	Highborne_Stromatolite	Highborne_ThrA	Highborne_ThrB	Highborne_ThrC	Highborne_MatType1	Highborne_MatType3
+Elusimicrobia	0	1	0	0	0	0	0	0	0
+Verrucomicrobia	0	6	1	0	0	0	0	0	0
+Bacteroidetes	4	14	8	0	5	5	8	0	1
+Aquificae	0	1	0	0	0	0	0	0	0
+Actinobacteria	0	6	5	1	0	0	0	0	0
+Cyanobacteria	5	9	4	0	18	11	9	1	1
+Firmicutes	1	11	7	0	0	1	1	1	0
+Deinococcus-Thermus	0	1	0	0	0	0	0	0	0
+Proteobacteria	101	69	45	8	0	6	2	2	5
+Acidobacteria	0	2	1	0	0	0	0	0	0
+Spirochaetes	0	5	5	0	0	0	0	0	0
+Nitrospirae	0	0	1	0	0	0	0	0	0
+Chloroflexi	0	4	3	0	0	0	0	0	0
+Planctomycetes	4	2	2	0	0	0	0	0	0
+Synergistetes	0	2	0	0	0	0	0	0	0
+Unclassified Bacteria	0	25	11	0	0	0	0	0	1
+Gemmatimonadetes	0	0	1	0	0	0	0	0	0
+Chlamydiae	0	4	2	0	0	0	0	0	0
+Tenericutes	0	0	1	0	0	0	0	0	0
+Euryarchaeota	0	17	1	0	0	0	0	0	0
+Unclassified 	35	14	8	2	4	5	6	0	0

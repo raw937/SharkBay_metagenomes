@@ -1,0 +1,10 @@
+Sample ID	Depth	Location	Type	Name
+4532716.3	1m	SharkBay	Mat	Pastular
+4532715.3	1m	SharkBay	Mat	Smooth
+4466752.3	1m	SharkBay	Stromatolite	Columnar
+4532760.3	1m	Highborne	Thrombolite	ThrA
+4532759.3	1m	Highborne	Thrombolite	ThrB
+4532758.3	1m	Highborne	Thrombolite	ThrC
+4532761.3	1m	Highborne	Mat	Type1
+4532762.3	1m	Highborne	Mat	Type3
+4440061.3	1m	Highborne	Stromatolite	MDA

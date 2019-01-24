@@ -1,0 +1,40 @@
+phylum	SharkBay_Pastular	SharkBay_Smooth	Highborne_Stromatolite	Highborne_ThrB	SharkBay_Columnar	Highborne_ThrC	Highborne_MatType3	Highborne_ThrA	Highborne_MatType1
+Elusimicrobia	1	0	0	0	0	0	0	0	0
+Verrucomicrobia	6	1	0	0	0	0	0	0	0
+Bacteroidetes	14	8	0	5	4	8	1	5	0
+Unclassified Fungi	0	0	0	1	0	0	0	0	0
+Aquificae	1	0	0	0	0	0	0	0	0
+Ascomycota	0	0	0	0	0	2	0	0	0
+Actinobacteria	6	5	1	0	0	0	0	0	0
+Bacillariophyta	0	2	0	1	0	4	0	2	0
+Echinodermata	1	0	0	0	0	0	0	0	0
+Cyanobacteria	9	4	0	11	5	9	1	18	1
+Streptophyta	3	1	0	3	0	1	11	2	0
+Firmicutes	11	7	0	1	1	1	0	0	1
+Deinococcus-Thermus	1	0	0	0	0	0	0	0	0
+Ctenophora	0	0	0	1	0	1	0	1	0
+Proteobacteria	69	45	8	6	101	2	5	0	2
+Acidobacteria	2	1	0	0	0	0	0	0	0
+Spirochaetes	5	5	0	0	0	0	0	0	0
+Pinguiophyceae	0	0	0	1	0	0	0	0	0
+Nitrospirae	0	1	0	0	0	0	0	0	0
+Chloroflexi	4	3	0	0	0	0	0	0	0
+Planctomycetes	2	2	0	0	4	0	0	0	0
+Chordata	0	0	3	0	1	0	0	0	0
+Unclassified Eukaryota	3	0	0	24	4	25	0	23	0
+Mollusca	0	0	0	1	0	1	0	0	0
+Platyhelminthes	0	0	0	0	0	0	0	1	0
+Synergistetes	2	0	0	0	0	0	0	0	0
+Unclassified Bacteria	25	11	0	0	0	0	1	0	0
+Arthropoda	5	3	0	11	0	10	0	11	0
+Sipuncula	0	0	0	1	0	1	0	1	0
+Annelida	0	0	0	5	0	6	0	5	0
+Nematoda	2	1	0	0	0	0	2	0	3
+Gemmatimonadetes	0	1	0	0	0	0	0	0	0
+Chlamydiae	4	2	0	0	0	0	0	0	0
+Blastocladiomycota	0	0	0	1	0	1	0	1	0
+Tenericutes	0	1	0	0	0	0	0	0	0
+Nematomorpha	0	0	0	0	0	0	0	1	0
+Chlorophyta	1	1	0	7	0	9	0	5	1
+Euryarchaeota	17	1	0	0	0	0	0	0	0
+Unclassified 	14	8	2	5	35	6	0	4	0

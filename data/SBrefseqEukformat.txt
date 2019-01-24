@@ -1,0 +1,22 @@
+phylum	SharkBay_Columnar_Stromatolite	SharkBay_Pastular	SharkBay_Smooth	Highborne_Stromatolite	Highborne_ThrA	Highborne_ThrB	Highborne_ThrC	Highborne_MatType1	Highborne_MatType3
+Ascomycota	81	254	145	0	41	27	30	10	7
+Streptophyta	156	375	151	1	70	57	55	12	651
+Bacillariophyta	52	66	31	0	115	98	85	4	1
+Echinodermata	6	41	26	0	62	60	59	8	11
+Hemichordata	0	31	21	0	24	35	26	3	15
+Chordata	91	346	134	4	118	124	117	37	87
+Unclassified Eukaryota	150	215	130	1	443	415	386	8	20
+Basidiomycota	9	65	26	3	10	2	13	6	3
+Arthropoda	454	116	82	2	84	103	111	24	103
+Placozoa	6	25	8	0	8	0	11	2	7
+Chromerida	0	0	0	0	0	0	0	24	13
+Chlorophyta	37	241	95	3	75	83	90	10	17
+Cnidaria	0	59	33	0	78	78	77	9	22
+Nematoda	29	69	40	3	7	20	22	27	72
+Korarchaeota	11	29	17	0	0	0	0	0	2
+Euryarchaeota	1046	12649	1462	31	100	105	93	125	165
+Nanoarchaeota	0	24	0	0	0	0	0	3	2
+Crenarchaeota	269	299	162	4	5	0	0	10	18
+Unclassified 	12	55	53	0	2	2	1	3	8
+Unclassified Viruses	3088	86	20	510	10	11	9	9	6
+Apicomplexa	17	50	19	1	7	9	0	1	2
